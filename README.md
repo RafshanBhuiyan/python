@@ -1,2 +1,2 @@
-<h1>Python for Future Project Materials</h1>
+<h1><c>Python for Future Project Materials</c></h1>
 
